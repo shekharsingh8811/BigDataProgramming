@@ -15,7 +15,10 @@ Step 6: Print the longest common subsequence and its length as an output.
 
 
 
-3.	Algorithm for Pattern Match program:
+
+
+
+Algorithm for Pattern Match program:
 
 
 Step 1: Take two inputs from the user, one as ‘string’ and the other one as 'pattern'.
